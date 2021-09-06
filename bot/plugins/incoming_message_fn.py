@@ -49,10 +49,10 @@ async def incoming_start_message_f(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Updates Channel', url='https://t.me/PigasusUpdates')
+                    InlineKeyboardButton('Updates Channel', url='t.me/PigasusUpdates')
                 ],
                 [
-                    InlineKeyboardButton('Support', url='https://t.me/PigasusSupport')
+                    InlineKeyboardButton('Support', url='t.me/PigasusSupport')
                 ],
                 [
                   InlineKeyboardButton('My Owner!', url='https://t.me/Me_Iz_Mad_Boi')
