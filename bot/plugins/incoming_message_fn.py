@@ -49,10 +49,14 @@ async def incoming_start_message_f(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Updates Channel', url='https://t.me/AyushBots')
+                    InlineKeyboardButton('Updates Channel', url='https://t.me/PigasusUpdates')
                 ],
                 [
-                    InlineKeyboardButton('Source Code', url='https://github.com/CyberBoyAyush/VideoCompress')
+                    InlineKeyboardButton('Support', url='https://t.me/pigasusSupport')
+                ]
+            ],
+            [
+                    InlineKeyboardButton('My Owner!', url='https://t.me/Me_Iz_Mad_Boi')
                 ]
             ]
         ),
