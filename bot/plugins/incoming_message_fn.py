@@ -54,9 +54,9 @@ async def incoming_start_message_f(bot, update):
                 [
                     InlineKeyboardButton('Support', url='https://t.me/pigasusSupport')
                     
-                    InlineKeyboardButton('My Semcy Onwer', url='https://t.me/Me_Iz_Mad_Boi')
+                    InlineKeyboardButton('My Owner!', url='https://t.me/Me_Iz_Mad_Boi')
                 ]
-            ],
+            ]
         ),
         reply_to_message_id=update.message_id,
     )
