@@ -58,7 +58,7 @@ async def incoming_start_message_f(bot, update):
             [
                     InlineKeyboardButton('My Owner!', url='https://t.me/Me_Iz_Mad_Boi')
                 ]
-            ]
+            
         ),
         reply_to_message_id=update.message_id,
     )
