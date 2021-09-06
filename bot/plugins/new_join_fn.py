@@ -29,10 +29,10 @@ async def help_message_f(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Updates Channel', url='https://t.me/AyushBots')
+                    InlineKeyboardButton('Updates Channel', url='https://t.me/PigasusUpdates')
                 ],
                 [
-                    InlineKeyboardButton('Source Code', url='https://github.com/CyberBoyAyush/VideoCompress')
+                    InlineKeyboardButton('Support', url='https:/t.me/PigasusSupport')
                 ]
             ]
         ),
