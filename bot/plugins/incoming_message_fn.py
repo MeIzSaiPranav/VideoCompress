@@ -52,7 +52,7 @@ async def incoming_start_message_f(bot, update):
                     InlineKeyboardButton('Updates Channel', url='https://t.me/PigasusUpdates')
                 ],
                 [
-                    InlineKeyboardButton('Support', url='https://t.me/pigasusSupport')
+                    InlineKeyboardButton('Support', url='https://t.me/PigasusSupport')
                 ],
                 [
                   InlineKeyboardButton('My Owner!', url='https://t.me/Me_Iz_Mad_Boi')
